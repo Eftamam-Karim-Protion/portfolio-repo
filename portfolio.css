@@ -1,3 +1,33 @@
 body {
     font-family: 'Berkshire Swash', cursive;
 }
+
+h1 {
+    font-size: 40px;
+}
+
+.red {
+    color: red;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 2%;
+}
+
+.link-button {
+
+    text-align: left;
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+
+.half-widthimg {
+    width: 80%;
+}
